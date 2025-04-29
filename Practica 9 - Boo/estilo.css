@@ -1,0 +1,13 @@
+/* estilo.css */
+.contenedor {
+    background-color: #e0f7fa; /* Celeste claro, podés cambiarlo a gusto */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Opcional: estilo para los cards violetas */
+  .bg-violet {
+    background-color: #9c27b0 !important;
+    color: white;
+  }
+  
