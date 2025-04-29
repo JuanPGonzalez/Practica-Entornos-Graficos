@@ -1,0 +1,34 @@
+¿ Qué es CSS y para qué se usa?
+CSS son las siglas de 'Cascade Style Sheet' que significa hojas de estilo en cascada
+Las Hojas de estilo es una tecnologia que nos permite controlar la apariencia de una pagina Web
+
+CSS utiliza reglas para las declaraciones de estilo, ¿Como funciona?
+El lenguaje esta definido en la Especificaciones CSS1, CSS2 y CSS3 del World Wide Web Consortium.
+
+¿Cuales son las tres formas de dar estilo a un documento?
+
+Directamente a la marca
+En el Head de la pagina
+Agrupar las reglas de estilo en un archivo independiente con extension '.css'
+¿Cuales son los distintos tipos de selectores mas utilizados?
+(no entendi mucho la pregunta) Los selectores mas utilizados son
+
+< head >
+< body >
+< p >
+< h1 >
+< img >
+¿Que es una pseudo-clase? ¿Cuales son los mas utilizados?
+Una pseudo-clase es una palabra clave que se añade a los selectores y que especifica un estado especial del elemento seleccionado
+
+:hover
+:after
+:before
+:first-child
+:first-of-type
+:root
+¿Que es la herencia?
+La herencia son algunos valores de las propiedades CSS que se han establecido para los elementos padre los heredan los elementos hijo, pero otros no
+
+¿En que consiste el proceso denominado cascada?
+La cascada en las hojas de estilo significa que el orden las reglas importa en CSS: cuando dos reglas tienen la misma especificidad, se aplica la que aparece en ultimo lugar en el CSS
